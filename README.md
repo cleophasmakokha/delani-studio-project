@@ -42,9 +42,9 @@ The MailChimp API doesn't work properly.
 >MIT LICENSE &copy; ©2020cleo
 
 ## Collaborate
-To contribute to Delani studio, reach me on [Email](makokhacleophas@gmail.com).
+To contribute to Delani studio project , reach me on [Email](makokhacleophas@gmail.com).
 
-Copyright (c) 2020cleo
+## Copyright (c) 2020cleo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
