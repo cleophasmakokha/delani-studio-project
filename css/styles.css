@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Poiret+One|Raleway|Ubuntu+Mono&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+* {
+    box-sizing: border-box;
+}
