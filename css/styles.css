@@ -106,3 +106,38 @@ body {
   .contact-overlay {
       background-color: rgba(0, 0, 0, 0.7);
   }
+  .form-control{
+      background-color: #66000000;
+      color: white;
+  }
+  .input{
+      margin-top: 30px;
+  }
+  .b-text{
+      font-family: 'Comfortaa', cursive;
+  }
+  .m-text{
+      font-family: 'Raleway', sans-serif;
+  }
+  .name{
+      margin-right: 5px;
+  }
+  input.error {
+      border: 1px dashed red;
+      font-weight: 300;
+      color: red;
+  }
+  .email{
+      margin-right: 5px;
+  }
+  .social{
+      justify-content:center;
+      padding-left:10px;
+      padding-right:10px;
+  }
+  .white{
+      height: 300px;
+      width: 366px;
+      background-color: rgba(255, 255, 255, 0.5);
+      display: none;
+  }
