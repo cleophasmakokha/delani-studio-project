@@ -8,7 +8,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 >Cleophas Makokha
 
 ## Screenshot.
-<img src="https://github.com/cleophasmakokha/delani-studio-project/images/screenshots/shot.png?raw=true" width="1000">
+<img src="images/screenshot/shot.png" alt="screenshot">
 
 ## Setup.
 To get a local copy of the site:
