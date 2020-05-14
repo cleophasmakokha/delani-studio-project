@@ -44,4 +44,13 @@ $(function () {
         $(prop).hide(500);
         $(protext).animate({fontWeight:'normal',fontSize:'16px'})
     })
+
+    //Overlay images
+
+  $('.portimg').hover(function(){
+      $('.porttext',this).slideToggle('slow');
+   }, function(){
+      $('.porttext',this).slideToggle('slow');
+   });
+
 });
